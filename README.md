@@ -1,4 +1,4 @@
-<img width="1151" height="893" alt="Screenshot 2026-10-26 110902" src="https://github.com/user-attachments/assets/872368af-a9dd-42b1-bc81-e5960bf473c6" /># Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
+
 ### Name:Madhu Shrie J
 ### Reg No:212224100034
 ## AIM:
